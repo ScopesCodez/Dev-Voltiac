@@ -6,10 +6,10 @@ I am a cyber security expert and a web developer from japan , tokyo i also code 
 # My Stats
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/dev-voltiac/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Voltiac&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/dev-voltiac/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Voltiac&theme=dark" />
 </a>
 
