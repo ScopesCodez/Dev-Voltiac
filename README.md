@@ -1,4 +1,5 @@
 # Hi, I’m Voltiac
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Dev-Voltiac.Dev-Voltiac)
 
 I am a cyber security expert and a web developer from japan , tokyo i also code discord bots and love music!
 
