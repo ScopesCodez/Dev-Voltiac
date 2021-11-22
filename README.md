@@ -14,6 +14,8 @@ I am a cyber security expert and a web developer from japan , tokyo i also code 
 # Tools
 
 * [GitHub](https://github.com)
+* [Stack Overflow](https://stackoverflow.com/)
+* [Jira](https://www.atlassian.com/software/jira)
 * [Neovim](https://neovim.io/)
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
