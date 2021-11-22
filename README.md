@@ -14,6 +14,7 @@
 # Tools
 
 > * [Neovim](https://neovim.io/)
+  * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 # My Stats
 
