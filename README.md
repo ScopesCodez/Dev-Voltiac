@@ -7,6 +7,14 @@
 
 > * [Melodica](https://melodica.pages.dev/) : Discord Music Bot
 
+# Skills
+
+
+
+# Tools
+
+> * [Neovim](https://neovim.io/)
+
 # My Stats
 
 
