@@ -1,11 +1,11 @@
 # Hi, I’m Voltiac
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dev-Voltiac.Dev-Voltiac)
 
-> I am a cyber security expert and a web developer from japan , tokyo i also code discord bots and love music!
+I am a cyber security expert and a web developer from japan , tokyo i also code discord bots and love music!
 
 # My Projects
 
-> * [Melodica](https://melodica.pages.dev/) : Discord Music Bot
+* [Melodica](https://melodica.pages.dev/) : Discord Music Bot
 
 # Skills
 
@@ -13,8 +13,8 @@
 
 # Tools
 
-> * [Neovim](https://neovim.io/)
-  * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [Neovim](https://neovim.io/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 # My Stats
 
