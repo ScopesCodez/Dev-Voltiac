@@ -51,7 +51,7 @@ This is my github page for nearly all my projects. If you want to see my work, I
 
 
 <a href="https://github.com/dev-voltiac/">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Voltiac&count_private=true&show_icons=true&theme=synthwave" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Dev-Voltiac&count_private=true&show_icons=true&theme=Dark" />
 
 
 
