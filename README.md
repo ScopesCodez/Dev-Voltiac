@@ -3,6 +3,8 @@
 
 This is my github page for nearly all my projects. If you want to see my work, I recommend looking at these repositories
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/908956490033922089)](https://discord.com/users/908956490033922089)
+
 ## My Skills
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
