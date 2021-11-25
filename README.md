@@ -1,7 +1,7 @@
 # Hi, I’m [Voltiac](https://voltiac.tech/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Dev-Voltiac.Dev-Voltiac)
 
-This is my github page for nearly all my projects. If you want to see my work, I recommend looking at these repositories:
+This is my github page for nearly all my projects. If you want to see my work, I recommend looking at these repositories
 
 ## My Skills
 <p>
