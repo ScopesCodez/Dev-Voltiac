@@ -34,7 +34,7 @@ This is my github page for nearly all my projects. If you want to see my work, I
 
 ## My Projects
  
-* [Voltiac Portfolio](https://voltiac.tech/)
+* [Voltiac Portfolio](https://voltiac.tech/) - Personal Website
 * [Melodica](https://melodica.pages.dev/) - Discord Music Bot
 
 ## Tools I Use
